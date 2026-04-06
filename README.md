@@ -1,1 +1,1 @@
-Repository for the paper "Conditions for Evolution of Cooperation"
+Repository for the paper "Spectral requirements for cooperation"
